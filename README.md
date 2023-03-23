@@ -21,7 +21,15 @@ npm i, npm i mysql2, npm i dotenv, npm i sequelize, npm i express
 
 ## Usage
 
-for test, open terminal and login your sql account: run "mysql -u yourusername -p yourpassword", run "source ./db/schema.sql", run "npm run seed", run "npm start"
+for test, open terminal and login your sql account:
+
+run "mysql -u yourusername -p yourpassword",
+
+run "source ./db/schema.sql", 
+
+run "npm run seed",
+
+run "npm start"
 
 ## License
 
@@ -33,7 +41,7 @@ Contribution standard
 
 ## Tests
 
-link
+[Example Video](https://drive.google.com/file/d/15ayNM7ht7cmSEIFJT68EBKMguP6uOhCY/view?usp=share_link)
 
 ## Questions
 
